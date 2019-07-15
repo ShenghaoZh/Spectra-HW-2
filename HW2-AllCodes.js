@@ -1,6 +1,6 @@
 
 //No.15 - 3SUM
-                                                    //思路：brute the first digit, the two pointers.
+                                                    //思路：brute the first digit, then two pointers.
 /**
  * @param {number[]} nums
  * @return {number[][]}

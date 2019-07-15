@@ -87,7 +87,7 @@ var threeSum = function(nums) {
 
 
 //NO.46 Permutation
-                                                    //思路: DP - caculate through the very basic
+                                                    //思路: DP - caculate through the very basic !!!faster 100%!!!
 /**
  * @param {number[]} nums
  * @return {number[][]}
